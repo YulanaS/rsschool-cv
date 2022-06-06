@@ -2,8 +2,8 @@
 
 ## Contacts
 
-* Location:
-* Email:
+* Location: Minsk, Belarus.
+* Email: yulana2006@mail.ru
 * Phone:
-* GitHub:
-* Discord:
+* GitHub: YulanaS
+* Discord: Yulana (@YulanaS)
