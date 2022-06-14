@@ -1,13 +1,14 @@
 body {
   background-color: #E3FCD9;
   font-family: 'Josefin Sans', sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
   color: #4d2323;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ 
 }
 
 * {
@@ -17,6 +18,9 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .nav-list {
@@ -56,6 +60,7 @@ html {
   padding: 8px;
   padding-bottom: 30px;
   border-bottom: 1px solid #a5c4d4;
+  align-items: center;
 }
 
 @media (max-width: 768px) {
